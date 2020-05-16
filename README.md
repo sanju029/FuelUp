@@ -19,6 +19,8 @@ https://github.com/sanju029/fueldelivery
   i.In Android Studio, select your app from the run/debug configurations drop-down menu in the toolbar.
  ii.In the toolbar, select the device that you want to run your app on from the target device drop-down menu
 
+#If you have the APK file, download and install the apk and run the app.
+
 Note : Please turn on your device location before installing and running the app.
 
 # Understanding and Using the app
